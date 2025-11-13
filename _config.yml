@@ -3,6 +3,6 @@ title: ゆうひまわりの小説サイト
 
 # サイトの説明（任意）
 description: ここは私の作品を置いておく場所です。
-
-# シンプルな標準テーマ「minima」を指定します
-theme: jekyll-theme-minima
+theme: minima
+markdown: kramdown
+timezone: Asia/Tokyo
