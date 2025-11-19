@@ -6,3 +6,5 @@ description: ここは私の作品を置いておく場所です。
 theme: minima
 markdown: kramdown
 timezone: Asia/Tokyo
+header_pages:
+  - index.md
